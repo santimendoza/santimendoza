@@ -11,3 +11,5 @@ I'm very passionate about web development and digital marketing. I believe in Go
 📌 Always pushing myself to continuos learning and improving.
 
 📌 Agile Enthusiast. Currently working as an Agile Facilitator.
+
+![Twitter Follow](https://img.shields.io/twitter/follow/sanmen1593?label=Follow%20Santiago)
