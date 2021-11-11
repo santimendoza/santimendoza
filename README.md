@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer. Currently working at Yuxi Global (Remote). I'm very passionate about web development and digital marketing. I believe in God and in doing everything with excellence.
+I'm a Software Engineer. I'm very passionate about web development and digital marketing. I believe in God and in doing everything with excellence.
 
 📌 5+ years working with JavaScript (Node.js, React.js, Redux, Next.js), CSS3, HTML5, MongoDB, Oracle DB and Linux Servers. Have been using Git from the beginning.
 
