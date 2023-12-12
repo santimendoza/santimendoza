@@ -2,7 +2,7 @@
 
 I'm a Software Engineer. I'm very passionate about web development and digital marketing. I believe in God and in doing everything with excellence.
 
-📌 5+ years working with JavaScript (Node.js, React.js, Redux, Next.js), CSS3, HTML5, MongoDB, Oracle DB and Linux Servers. Have been using Git from the beginning.
+📌 7+ years working with JavaScript (Node.js, React.js, Redux, Next.js), CSS3, HTML5, MongoDB, Oracle DB, AWS, PostgreSQL. Have been using Git from the beginning.
 
 📌 Digital Marketing Expert, specially with Search Engine Optimization.
 
