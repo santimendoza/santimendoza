@@ -9,5 +9,3 @@ I'm a Software Engineer. I'm very passionate about web development and digital m
 📌 Always pushing myself to continuos learning and improving.
 
 📧 You can reach me out at hello@santiagomendoza.net
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/SantiMendoza93?label=Follow%20Santiago)](https://twitter.com/intent/follow?screen_name=SantiMendoza93)
